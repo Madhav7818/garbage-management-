@@ -62,8 +62,6 @@
 
 </body>
 </html>
-
-css
 * {
     box-sizing: border-box;
 }
